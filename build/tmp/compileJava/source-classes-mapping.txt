@@ -1,0 +1,16 @@
+userInterface/Bike_UI.java
+ userInterface.Bike_UI
+interactions/Esperar.java
+ interactions.Esperar
+interactions/Bike_Random_Click.java
+ interactions.Bike_Random_Click
+tasks/Bike_Automatizar_Random.java
+ tasks.Bike_Automatizar_Random
+globalVar/Bike_global.java
+ globalVar.Bike_global
+driver/SeleniumWebDriver.java
+ driver.SeleniumWebDriver
+tasks/Bike_Automatizar.java
+ tasks.Bike_Automatizar
+models/Modelos.java
+ models.Modelos
